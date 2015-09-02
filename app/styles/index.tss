@@ -1,0 +1,31 @@
+".container": {
+	backgroundColor:"white"
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+
+"#button": {
+	top: null,
+	left: null,
+	backgroundColor: Alloy.CFG.design.mainColor,
+	label: {
+		text: 'Awesome'
+	}
+}
+
+
+"#button2": {
+	top: 50,
+	left: null,
+	width: '60%',
+	backgroundColor: 'red',
+	label: {
+		text: 'Another Button',
+		color: '#ffffff',
+		font: Alloy.CFG.design.mainFont
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"global": {
+		"design": {
+			"mainColor": "#345678",
+			"mainFont": {
+				"fontSize": 12,
+				"fontFamily": "Arial"
+			}		
+		}
+	}
+}

@@ -1,0 +1,15 @@
+"#button": {
+	height: 50,
+	width: Ti.UI.FILL,
+	left: 0,
+	top: 0,
+	backgroundColor: '#000000'
+}
+
+"#buttonLabel": {
+	color: '#ffffff',
+	font: {
+		fontSize: 12
+	}
+}
+

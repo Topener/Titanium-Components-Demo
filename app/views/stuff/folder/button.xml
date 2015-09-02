@@ -1,0 +1,5 @@
+<Alloy>
+	<View id="button" onClick="click" onSwipe="swipe">
+		<Label id="buttonLabel" />
+	</View>
+</Alloy>

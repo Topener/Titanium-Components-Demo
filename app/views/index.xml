@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container">
+		
+		<Require src="stuff/folder/button" id="button" onAway="func" onClick="clickFunction"></Require>
+		<Require src="stuff/folder/button" id="button2" onAway="func2" onClick="clickFunction"></Require>
+
+	</Window>
+</Alloy>
